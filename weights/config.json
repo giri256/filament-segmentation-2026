@@ -1,0 +1,7 @@
+{
+ "tags": ["r34soft", "ppsoft"],
+ "detectors": {"s1024": 1024, "m1280": 1280},
+ "folds": [0, 1, 2, 3, 4],
+ "variant": "refjx@0.5",
+ "refiner": [["refiner", "unetpp", "resnet34"]]
+}
