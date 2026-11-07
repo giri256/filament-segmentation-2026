@@ -66,6 +66,8 @@ full progression, the organisers' IoU/Dice/1:n/n:1 statistics and the ideas that
 
 ## Credits and licence
 
+Team "Jahnavi krishnaveni" on Kaggle: Konduru Giridhar Sai Pavan Kumar and Jahnavi krishnaveni (contact:
+giridharpavan593@gmail.com).
 All code in this repository is ours. Three methods follow [filament-seg](https://github.com/ameyypawar/filament-seg)
 by Amey Pawar (MIT License), reimplemented here: the preprocessing (limb fit and flat field, written to reproduce
 its output exactly because our networks were trained on it), the dense-model and detector training recipes, and the
